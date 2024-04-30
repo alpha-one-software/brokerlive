@@ -52,7 +52,7 @@ return [
         'mailgun' => [
             'transport' => 'mailgun',
             'domain' => 'mg.brokerlive.com.au',
-            'secret' => '9a20f65ba7f66d58a83e62af6433b7b1-7cd1ac2b-b626702b',
+            'secret' => '',
         ],
 
         'postmark' => [
